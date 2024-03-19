@@ -12,7 +12,7 @@ You can try the live demo [here](link_to_live_demo).
 
 ## Screenshots
 
-![Screenshot (screenshots/screenshot1.jpg)
+![Screenshot] (screenshots/screenshot1.jpg)
 
 ## Usage
 
