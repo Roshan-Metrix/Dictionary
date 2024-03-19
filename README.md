@@ -8,11 +8,11 @@ This app allows users to search for the meanings of words. Users can input a wor
 
 ## Live Demo
 
-You can try the live demo [here](link_to_live_demo).
+You can try the live demo [https://neptech-roshan.github.io/Dictionary/](link_to_live_demo).
 
 ## Screenshots
 
-![Screenshot] (screenshots/screenshot1.jpg)
+![Screenshot] (./screenshots/screenshot1.jpg)
 
 ## Usage
 
