@@ -12,7 +12,7 @@ You can try the live demo [here](https://roshan-metrix.github.io/Dictionary/)
 
 ## Screenshots
 
-![Screenshot] (screenshots/screenshot1.jpg)
+![Screenshot] (./screenshots/screenshot1.jpg)
 
 ## Usage
 
